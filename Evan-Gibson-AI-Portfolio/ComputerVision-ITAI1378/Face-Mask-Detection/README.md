@@ -31,6 +31,9 @@ A post-prediction confidence threshold override is applied: if `mask_weared_inco
 - Normalize with ImageNet mean/std `([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])`
 - Training augmentation: random horizontal flip, color jitter (brightness/contrast ±0.3), random rotation ±10°
 
+## Demo Video
+[Watch Demo](https://drive.google.com/file/d/1RjsUOQ5Q7YVzrvl2_9rJRBHGZS6Q38Dt/view?usp=sharing)
+
 ## Results
 
 | Metric | Value |
