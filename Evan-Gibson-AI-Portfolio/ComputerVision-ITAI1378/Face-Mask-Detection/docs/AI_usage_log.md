@@ -48,5 +48,5 @@ Claude was used extensively as a learning and development aid throughout this pr
 ---
 
 ## Code Attribution
-- ~40% written/modified directly by student (cell edits, path fixes, threshold tuning, real-world testing)
-- ~60% AI-generated scaffold, reviewed and tested by student
+- ~70% written/modified directly by student (cell edits, path fixes, threshold tuning, real-world testing)
+- ~30% AI-generated scaffold, reviewed and tested by student
