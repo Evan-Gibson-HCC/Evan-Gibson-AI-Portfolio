@@ -21,8 +21,6 @@ Claude was used extensively as a learning and development aid throughout this pr
 ### Code Generation
 - Initial Colab notebook scaffolding (data loading, training loop, evaluation cells)
 - `TransformSubset` wrapper class for applying different transforms to val/test splits
-- Confusion matrix and training curve visualization code
-- Inference cell with confidence threshold override
 
 ### Debugging & Iteration
 - Identified `kagglehub` as an alternative to `kaggle.json` upload
@@ -37,10 +35,6 @@ Claude was used extensively as a learning and development aid throughout this pr
   - Mic boom classified as `with_mask` (wide-frame sensitivity)
   - Tighter crop resolved framing issue but not nose-exposure issue
 - Explained why failures are dataset limitations, not training problems
-
-### Documentation
-- README.md templates (portfolio, course, project levels)
-- This AI usage log
 
 ---
 
