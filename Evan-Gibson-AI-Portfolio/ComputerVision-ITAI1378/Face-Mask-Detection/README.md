@@ -91,3 +91,6 @@ Each notebook installs its own dependencies. A Kaggle account is required to dow
 
 ## AI Usage
 See [`docs/AI_usage_log.md`](docs/AI_usage_log.md) for full documentation of AI tools used in this project.
+
+## Completed Model
+['Link to download from Google Drive here!'](https://drive.google.com/file/d/1O3yggfwxba8s_6dngN9DiNMzprVdN12S/view?usp=sharing)
