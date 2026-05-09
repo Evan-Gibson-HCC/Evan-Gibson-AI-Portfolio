@@ -1,0 +1,13 @@
+Face Mask Detection — Test Set Metrics
+========================================
+Accuracy:          0.9963 (99.63%)
+Precision (macro): ~0.996
+Recall (macro):    ~0.996
+F1 Score (macro):  ~0.996
+Test samples:      1,347
+Misclassified:     5
+
+Per-class:
+  mask_weared_incorrect  431/431  (100.0%)
+  with_mask              449/450  (99.8%)
+  without_mask           462/466  (99.1%)
